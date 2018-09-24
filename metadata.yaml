@@ -1,11 +1,16 @@
 _repo: The-Oyster-Where-How-and-When-to-Find-Breed-Cook-and-Eat-It_56285
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56285-h/images/cover.jpg
 creator:
   author:
     agent_name: Murray, Eustace Clare Grenville
     gutenberg_agent_id: '48762'
     url: http://www.gutenberg.org/2009/agents/48762
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56285#The-Oyster-Where-How-and-When-to-Find-Breed-Cook-and-Eat-It
 gutenberg_issued: '2018-01-01'
 gutenberg_type: Text
 identifiers:
